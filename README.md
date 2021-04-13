@@ -3,8 +3,7 @@
 My first working project for a 2 week C++ learning session I have done.
 
 Here is a quick preview of the project.
-
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67654528/114593051-9175d700-9c83-11eb-86c7-02e45afcbdfe.gif)
 
 Youtube link-
 -- 
