@@ -2,6 +2,14 @@
  
 My first working project for a 2 week C++ learning session I have done.
 
+Here is a quick preview of the project.
+
+
+
+Youtube link-
+-- 
+
+
 This uses the SFML library.
 -- I think its the 64bit Visual Studio 15 one.
 
