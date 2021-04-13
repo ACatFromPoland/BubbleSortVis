@@ -1,4 +1,4 @@
-# CppProject1_BubbleSortVis
+# BubbleSortVis
  
 My first working project for a 2 week C++ learning session I have done.
 
